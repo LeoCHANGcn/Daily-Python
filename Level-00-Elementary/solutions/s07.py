@@ -1,7 +1,13 @@
 def popular_words(text: str, words: list) -> dict:
     # your code here
-    popular_words = {}
-    return None 
+    text = text.lower().split()
+    popular_words = dict(zip(words, [0 for _ in range(len(words))]))
+    
+    for item in text:
+        if item in words:
+            popular_words[item] += 1
+
+    return popular_words
 
 
 if __name__ == '__main__':
@@ -25,4 +31,4 @@ I was nearly new
         'three': 0,
         'near': 0
     }
-    print("Coding complete? Click 'Check' to earn cool rewards!")
+    print("Coding complete!")
