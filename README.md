@@ -5,7 +5,7 @@ Python programming exercises!
 
 如果可以独立完成本项目的所有习题，相信大家的Python编程能力一定会有极大的提升。本项目习题大部分来自网络，包含[ceckio](check.io)、leetcode的在线编程网站，部分习题系原创，大部分题目的解法是由本项目维护者贡献的，少部分习题解答来自stackoverflow等网站。
 
-https://github.com/SEU-CodingTogether/Daily-Python和https://github.com/LeoCHANGcn/Daily-Python两个仓库保持**同步更新**。
+https://github.com/SEU-CodingTogether/Daily-Python 和 https://github.com/LeoCHANGcn/Daily-Python两个仓库保持**同步更新**。
 
 ## 如何使用？
 
@@ -23,7 +23,7 @@ https://github.com/SEU-CodingTogether/Daily-Python和https://github.com/LeoCHANG
 
 > 除了**`Level-00-Elementary`**（本单元不接受pull request），其它每个单元下面都会有solutions目录、templates目录和more solutions目录，你提交的答案应该放在more solutions目录中：首先在templates目录下找到对应题目的答题模板，拷贝到more solutions目录下，重命名文件之后，将你的解答填写在这个文件中，保证你的答案通过提供的简单测试样例后，提交pull request。
 >
-> 举个例子，比如你想要解答**`Level-01-Starting`**里面的p01问题，那么你需要到**`Level-01-Starting/templates`**目录下找到`s01.py`，将这个文件复制到**`Level-01-Starting/more solutions`**目录下，更名为`s01-[Your github username].py`之后，填写答案，运行你的代码，如果没有断言错误抛出，就可以考虑提交pull request了。
+> 举个例子，比如你想要解答**`Level-01-Starting`** 里面的p01问题，那么你需要到**`Level-01-Starting/templates`** 目录下找到`s01.py`，将这个文件复制到 **`Level-01-Starting/more solutions`** 目录下，更名为`s01-[Your github username].py`之后，填写答案，运行你的代码，如果没有断言错误抛出，就可以考虑提交pull request了。
 >
 > **但是需要注意一点**：在你提交之前，请看看solutions和more solutions里面有没有和你的解答类似的方法，如果有的话，就不要再提交了。
 
