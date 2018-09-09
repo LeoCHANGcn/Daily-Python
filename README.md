@@ -3,7 +3,7 @@ Python programming exercises!
 
 本项目预计包含200道左右的Python编程习题，涵盖从基础语法应用到图论算法的各个方面。
 
-如果可以独立完成本项目的所有习题，相信大家的Python编程能力一定会有极大的提升。本项目习题大部分来自网络，包含[ceckio](check.io)、leetcode的在线编程网站，部分习题系原创，大部分题目的解法是由本项目维护者贡献的，少部分习题解答来自stackoverflow等网站。
+如果可以独立完成本项目的所有习题，相信大家的Python编程能力一定会有极大的提升。本项目习题大部分来自网络，包含[checkio](checkio.org)、[leetcode](https://leetcode.com/)的在线编程网站，部分习题系原创，大部分题目的解法是由本项目维护者贡献的，少部分习题解答来自[stackoverflow](https://stackoverflow.com/)等网站。
 
 https://github.com/SEU-CodingTogether/Daily-Python 和 https://github.com/LeoCHANGcn/Daily-Python 两个仓库保持**同步更新**。
 
