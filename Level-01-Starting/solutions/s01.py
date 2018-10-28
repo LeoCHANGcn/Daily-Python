@@ -1,7 +1,18 @@
 def checkio(data: str) -> bool:
-
     #replace this for solution
-    return True or False
+    is_lower = False
+    is_upper = False
+    is_digital = False
+    if len(data) < 10:
+        return False
+    for i in data:
+        if str.isupper(i):
+            is_upper = True
+        if str.islower(i):
+            is_lower = True
+        if str.isdigit(i):
+            is_digital = True
+    return (is_lower and is_upper and is_digital)
 
 #Some hints
 #Just check all conditions
